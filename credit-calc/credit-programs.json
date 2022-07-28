@@ -1,0 +1,14 @@
+[
+	{
+		"bank": "Sperbank",
+		"initialFee": 15,
+		"rate": 9.5,
+		"image": "image"
+	},
+	{
+		"bank": "WTB",
+		"initialFee": 30,
+		"rate": 12.27,
+		"image": "image"
+	}
+]
