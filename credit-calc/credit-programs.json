@@ -3,12 +3,14 @@
 		"bank": "Sperbank",
 		"initialFee": 15,
 		"rate": 9.5,
-		"image": "https://mdl95r.github.io/API/credit-calc/img/2351ae4c0566dfbe6c349b96f2484397.png"
+		"image": "https://mdl95r.github.io/API/credit-calc/img/2351ae4c0566dfbe6c349b96f2484397.png",
+		"term": 5
 	},
 	{
 		"bank": "WTB",
 		"initialFee": 30,
 		"rate": 12.27,
-		"image": "https://mdl95r.github.io/API/credit-calc/img/a63cfc41701b60904fd95becfa7d4699.jpg"
+		"image": "https://mdl95r.github.io/API/credit-calc/img/a63cfc41701b60904fd95becfa7d4699.jpg",
+		"term": 3
 	}
 ]
