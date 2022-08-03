@@ -12,5 +12,12 @@
 		"rate": 12.27,
 		"image": "https://mdl95r.github.io/API/credit-calc/img/a63cfc41701b60904fd95becfa7d4699.jpg",
 		"term": 3
+	},
+	{
+		"bank": "RSB",
+		"initialFee": 25,
+		"rate": 10,
+		"image": "https://mdl95r.github.io/API/credit-calc/img/ad5f79152c9bddc76a83e8f9f4bc671b.jpg",
+		"term": 10
 	}
 ]
