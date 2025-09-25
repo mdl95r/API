@@ -279,6 +279,6 @@
         "ShowParticipationPrice": false
       }
     ],
-    "registrationOnlyOnTenant": null
+    "registrationOnlyOnTenant": false
   }
 ]
